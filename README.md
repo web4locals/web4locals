@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, I'm David</h1>
 <h3 align="center">I am currently studying to become a Junior Web Developer. </h3>
-![Generation_Australia_logo](https://user-images.githubusercontent.com/105700512/173226452-6ddc48f0-8e37-420e-8311-6dd2b10357f0.png)
 
-<a href="https://australia.generation.org/">Generation Australia</a>
-<a href=https://www.codecademy.com><img src= "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt= "Codecademy"><a/>
+<h5 align="center">Training Providers:</h5>
+<p align="center">
+<a href="https://australia.generation.org/"><img src="https://user-images.githubusercontent.com/105700512/173226452-6ddc48f0-8e37-420e-8311-6dd2b10357f0.png" alt= "Generation Australia"></a>
+<a href=https://www.codecademy.com><img src= "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt= "Codecademy"><a/></p>
 
-<div style= display="inline-flex">
+
 <h5 align="left">Languages and Tools I am currently learning:</h5>
 <p align="left">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
