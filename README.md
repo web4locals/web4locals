@@ -22,7 +22,7 @@
 <h6 align="right">Connect with me:</h6>
 <p align="right">
 <a href="https://twitter.com/dave_stewie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dave_stewie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/david-stewart-09879623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-stewart-09879623b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-stewart-09879623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-stewart-09879623b" height="30" width="40" /></a>
 </p>
 </div>
 
