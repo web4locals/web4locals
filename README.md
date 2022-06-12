@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am currently studying to become a Junior Web Developer with [Generation Australia](https://australia.generation.org/)</h3>
+<h3 align="center">I am currently studying to become a Junior Web Developer with <a href="https://australia.generation.org/">Generation Australia</a></h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="right">  
-   
-  <!--HTML5-->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <!--CSS-->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
- <!--JavaScript-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
- <!--BootStrap-->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
+<h3 align="center">Languages and Tools I am currently learning:</h3>
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--Links-->
 <p align="right"> <a href="https://twitter.com/dave_stewie" target="blank"><img src="https://img.shields.io/twitter/follow/dave_stewie?logo=twitter&style=for-the-badge" alt="dave_stewie" /></a> </p>
