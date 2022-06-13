@@ -5,10 +5,15 @@
 <h1 align="center">Hello 👋, I'm David</h1>
 <p align="center">I am currently studying to become a Junior Web Developer. </p>
 
-<h3 align= "center">Repositories Explained:</h3>
+---
 
+<h3 align= "center">Repositories index:</h3>
+ <p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/codecademy">| 🏫 Codecademy |</strong></a> -- Contains Repo list of Codecademy Training Exercises</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/generation-training">| 🎓 Generation Training |</strong></a> -- Contains Repo list of Generation Class Projects (Team and Solo)</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/my-random-projects">| 🥼 My Random Projects |</strong></a> -- Contains Repo list of notes and random projects (In the future I will clean up better)</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/inspiration">| ✨ Inspiration|</strong></a> -- Contains Repo list of ideas an d projects I'm excited to complete (Work in Progress)</p>
 
-
+---
 
 
 <h5 align="center">Training Providers:</h5>
