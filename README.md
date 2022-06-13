@@ -1,5 +1,15 @@
+
+
+
+
 <h1 align="center">Hello 👋, I'm David</h1>
-<h3 align="center">I am currently studying to become a Junior Web Developer. </h3>
+<p align="center">I am currently studying to become a Junior Web Developer. </p>
+
+<h3 align= "center">Repositories Explained:</h3>
+
+
+
+
 
 <h5 align="center">Training Providers:</h5>
 <p align="center">
