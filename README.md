@@ -8,10 +8,10 @@
 ---
 
 <h3 align= "center">Repositories index:</h3>
- <p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/codecademy">| 🏫 Codecademy |</strong></a> -- Contains Repo list of Codecademy Training Exercises</p>
-<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/generation-training">| 🎓 Generation Training |</strong></a> -- Contains Repo list of Generation Class Projects (Team and Solo)</p>
-<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/my-random-projects">| 🥼 My Random Projects |</strong></a> -- Contains Repo list of notes and random projects (In the future I will clean up better)</p>
-<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/inspiration">| ✨ Inspiration|</strong></a> -- Contains Repo list of ideas an d projects I'm excited to complete (Work in Progress)</p>
+ <p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/codecademy">| 🏫 Codecademy |</strong></a> -- Contains a Repo list of Codecademy Training Exercises</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/generation-training">| 🎓 Generation Training |</strong></a> -- Contains a Repo list of Generation Class Projects (Team and Solo)</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/my-random-projects">| 🥼 My Random Projects |</strong></a> -- Contains a Repo list of notes and random projects (In the future I will clean up better)</p>
+<p align="center"> <strong><a href="https://github.com/stars/web4locals/lists/inspiration">| ✨ Inspiration|</strong></a> -- Contains a Repo list of ideas and projects I'm excited to complete (Work in Progress)</p>
 
 ---
 
