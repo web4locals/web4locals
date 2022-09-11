@@ -4,8 +4,9 @@
 
 <h1 align="center">Hello 👋, I'm David</h1>
 <p align="center">I am currently studying to become a Junior Web Developer. </p>
-<p>Due to malicious activity on my accounts/pc... I have been unable to continue training with Generation Australia.</p>
-<p>Since then, I have fixed the these issues. I have decided that I will continue learning myself in my spare time.</p> 
+<h3 align="center">Update 11/09/2022</h3> 
+<p align="center">Due to malicious activity on my accounts/pc... I have been unable to continue training with Generation Australia.</p>
+<p align="center">Since then, I have fixed the these issues. I have decided that I will continue learning myself in my spare time.</p> 
 
 ---
 
